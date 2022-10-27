@@ -11,6 +11,7 @@ main(){
 
     printf("Digite a idade 1: ");
     scanf("%d", &idade1);
+    
     printf("Digite a idade 2: ");
     scanf("%d", &idade2);
 
